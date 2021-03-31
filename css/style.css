@@ -130,7 +130,6 @@ img {
 
 .section-title h2 {
     text-align: center;
-    text-transform: capitalize;
     font-size: 35px;
     color: var(--white-900);
     font-weight: 600;
@@ -278,7 +277,6 @@ p {
     color: var(--white-900);
     display: block;
     padding: 10px 0;
-    text-transform: capitalize;
     transition: all 0.5s ease;
 }
 
